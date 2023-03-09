@@ -28,5 +28,4 @@
 
 ### maxpooling
 
-![layout](https://user-images.githubusercontent.com/125378013/223779232-82eea859-c85e-456f-b50c-3492dfacc4d7.png)
-
+![圖片2](https://user-images.githubusercontent.com/125378013/223929645-460d8e56-f657-4726-b6e5-6d603034ffaf.png)
