@@ -14,7 +14,7 @@
 
 ## There is the system including systolic array, controller, and the testbench.
 ### Convolution and fully connected layer are executed in hardware, and maxpooling and im2col are done in software.
-### PS : After modifing, the maxpooling is included in hardware, so the code the the layout result.
+### PS : After modifing, the maxpooling is included in hardware, and so the code and the layout result.
 
 ![image](https://user-images.githubusercontent.com/125378013/223891568-938c1da8-1344-4a00-aed0-cae9bdb7c2b4.png)
 
