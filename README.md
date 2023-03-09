@@ -25,6 +25,6 @@
 ![圖片2](https://user-images.githubusercontent.com/125378013/223929645-460d8e56-f657-4726-b6e5-6d603034ffaf.png)
 
 
-### NO maxpooling layout
+## NO maxpooling layout
 
 ![圖片1](https://user-images.githubusercontent.com/125378013/223929472-ecdf1ecf-f8f0-4f31-a63f-a8b362fefd17.png)
