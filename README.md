@@ -22,10 +22,9 @@
 
 ![area](https://user-images.githubusercontent.com/125378013/223779262-7f7f3f0d-5d0a-4131-a5cd-0003eab1ccd9.png)
 
-### NO maxpooling
+![圖片2](https://user-images.githubusercontent.com/125378013/223929645-460d8e56-f657-4726-b6e5-6d603034ffaf.png)
+
+
+### NO maxpooling layout
 
 ![圖片1](https://user-images.githubusercontent.com/125378013/223929472-ecdf1ecf-f8f0-4f31-a63f-a8b362fefd17.png)
-
-### maxpooling
-
-![圖片2](https://user-images.githubusercontent.com/125378013/223929645-460d8e56-f657-4726-b6e5-6d603034ffaf.png)
