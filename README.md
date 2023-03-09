@@ -1,6 +1,7 @@
 # Systolic Array Based on Matrix Multiplication for CNN
 
 ## *We use systolic array to implement matrix multilication to execute CNN.*
+
 ## The architecture is shown below, and each block is a PE. It can apply W*X matrix multiplication, W means weight, X means input feature map, and there size are 4×16, 16×N，respectivelly. N is an arbitrary number.
 ### PS : The weight and input feature map need to be transfer to matrix by image to column.
 
