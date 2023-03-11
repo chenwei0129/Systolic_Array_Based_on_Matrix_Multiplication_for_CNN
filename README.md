@@ -7,7 +7,7 @@
 
 ![image](https://user-images.githubusercontent.com/125378013/223890178-faa3c05a-cdfd-431f-ab89-0392e0598f99.png)
 
-## The data type of W and X is {1, 5, 8}, which represent 1 signed bit, 5bits integer, and 8bits floating point.
+## The data type of W and X is {1, 5, 8}, which represents 1 signed bit, 5bits integer, and 8bits floating point.
 ## The following are the network architecture and the size of matrix.
 
 ![image](https://user-images.githubusercontent.com/125378013/223891271-63ea338e-9065-4d74-bcb9-fabc0ed0be7a.png)
