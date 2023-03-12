@@ -2,7 +2,7 @@
 
 ## *We use systolic array to implement matrix multilication to execute CNN.*
 
-## The architecture is shown below, and each block is a PE. It can apply W×X matrix multiplication, W means weight, X means input feature map, and there size are 4×16, 16×N，respectivelly. N is an arbitrary number.
+## The architecture is shown below, and each block is a PE. It can apply W×X matrix multiplication, W means weight, X means input feature map, and there size are 4×16, 16×N, respectivelly. N is an arbitrary number.
 ### PS : The weight and input feature map need to be transfered to matrix by image to column.
 
 ![image](https://user-images.githubusercontent.com/125378013/223890178-faa3c05a-cdfd-431f-ab89-0392e0598f99.png)
