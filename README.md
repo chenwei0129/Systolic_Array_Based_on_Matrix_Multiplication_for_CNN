@@ -27,6 +27,4 @@
 
 ## NO maxpooling layout
 
-![image](https://user-images.githubusercontent.com/125378013/224544050-7db394ef-6328-44ad-8f70-a2383a28a6aa.png)
-
 ![圖片1](https://user-images.githubusercontent.com/125378013/223929472-ecdf1ecf-f8f0-4f31-a63f-a8b362fefd17.png)
