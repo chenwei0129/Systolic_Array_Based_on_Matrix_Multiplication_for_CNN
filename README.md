@@ -18,7 +18,7 @@
 
 ![image](https://user-images.githubusercontent.com/125378013/223891568-938c1da8-1344-4a00-aed0-cae9bdb7c2b4.png)
 
-## Finally, the APR is finish, there are some data and layout.
+## Finally, the APR is done, there are some data and layout.
 
 ![area](https://user-images.githubusercontent.com/125378013/223779262-7f7f3f0d-5d0a-4131-a5cd-0003eab1ccd9.png)
 
